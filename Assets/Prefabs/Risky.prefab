@@ -2733,7 +2733,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: be601fe4e130853409e4cf4a64ad9d5a,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: be601fe4e130853409e4cf4a64ad9d5a,
         type: 3}
@@ -2743,7 +2743,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: be601fe4e130853409e4cf4a64ad9d5a,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: be601fe4e130853409e4cf4a64ad9d5a,
         type: 3}
@@ -2758,7 +2758,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: be601fe4e130853409e4cf4a64ad9d5a,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: be601fe4e130853409e4cf4a64ad9d5a,
         type: 3}
@@ -2775,6 +2775,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: risky_rigged
       objectReference: {fileID: 0}
+    - target: {fileID: 2244298398522610504, guid: be601fe4e130853409e4cf4a64ad9d5a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b52d6541faa59014394d65b1c70380f0, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -16,14 +16,9 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
-      does not match position in animation file:\n\t'DEF-thigh.L' : position error
-      = 111.966057 mm\n\t'DEF-shin.L' : position error = 639.923706 mm\n\t'DEF-foot.L'
-      : position error = 534.712585 mm\n\t'DEF-toe.L' : position error = 273.338501
-      mm\n\t'DEF-thigh.R' : position error = 111.966057 mm\n\t'DEF-shin.R' : position
-      error = 639.923828 mm\n\t'DEF-foot.R' : position error = 534.712708 mm\n\t'DEF-toe.R'
-      : position error = 273.338501 mm\n"
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'DEF-spine' for human
+      bone 'Hips' not found\n"
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
